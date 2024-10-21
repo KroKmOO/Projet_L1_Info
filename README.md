@@ -28,3 +28,10 @@ la Façade du site se découpe de la manière suivante :
 - Compte : seul le bouton connexion fonctionne
 
 Le coté Admin se décompose de la manière suivante :
+- Produit : résumé des produits avec la possibilitée de les modifier
+- Nouveau : possibilité d'ajouter un nouveau produit
+- Supp : supprimer un produit*
+- Ajouter un admin
+
+Voici une vidéo de démonstration :
+
