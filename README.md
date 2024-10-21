@@ -33,5 +33,13 @@ Le coté Admin se décompose de la manière suivante :
 - Supp : supprimer un produit*
 - Ajouter un admin
 
-Voici une vidéo de démonstration :
+
+![image](https://github.com/user-attachments/assets/33c89360-6feb-4e9f-8c21-f26d56b1f4d9)
+
+![image](https://github.com/user-attachments/assets/cefff20a-1e8b-4155-b66a-a4640196a5d9)
+
+![image](https://github.com/user-attachments/assets/ac47e262-ca78-4675-92b3-0261a7b815be)
+
+![image](https://github.com/user-attachments/assets/c173ab5b-f0f4-4ccf-931e-162fa542742f)
+
 
