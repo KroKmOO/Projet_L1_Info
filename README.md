@@ -2,6 +2,8 @@
 Pré-requis :
 Ouvrir le projet sur un serveur Wamp Apache Mysql tel que Uwamp ou Xamp
 
+# Présentation 
+
 Voici mon projet de première année en informatique : 
 Il consistait à créer un site web complet, de la conception à la réalisation, en utilisant des technologies comme HTML, CSS, PHP et JavaScript.
 
@@ -18,6 +20,8 @@ de part le manque de temps et car il s'agissait d'une partie hors sujet. En l'oc
 systeme de paiement, ce dernier n'étant pas finalisé, il se limite juste à un panier modifiable. 
 (Ajout d'article + suppression d'article)
 
+# Façade
+
 la Façade du site se découpe de la manière suivante :
 - Acceuil : bannière, réduction, articles populaires, news
 - Catalogue : barre de recherche dynamique, produit
@@ -27,13 +31,15 @@ la Façade du site se découpe de la manière suivante :
 - Panier : articles selectionnés
 - Compte : seul le bouton connexion fonctionne
 
+# Admin
+
 Le coté Admin se décompose de la manière suivante :
 - Produit : résumé des produits avec la possibilitée de les modifier
 - Nouveau : possibilité d'ajouter un nouveau produit
 - Supp : supprimer un produit*
 - Ajouter un admin
 
-Voici quelques images :
+# Images 
 
 ![image](https://github.com/user-attachments/assets/33c89360-6feb-4e9f-8c21-f26d56b1f4d9)
 
